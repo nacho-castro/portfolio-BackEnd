@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.back.AuthApp.AuthAppApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.987 s - in com.back.AuthApp.AuthAppApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 20.781 s - in com.back.AuthApp.AuthAppApplicationTests
